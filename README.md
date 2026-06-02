@@ -2,7 +2,8 @@
 
 ## Project Summary
 
-The Customer Behavior & Revenue Intelligence Dashboard is an end-to-end Data Analytics project built using the Brazilian E-Commerce Public Dataset by Olist. The project aims to transform raw transactional data into actionable business insights by analyzing revenue performance, customer behavior, delivery efficiency, and customer satisfaction.
+The Customer Behavior & Revenue Intelligence Dashboard is an end-to-end Data Analytics project built using the Brazilian E-Commerce Public Dataset by Olist.
+The project aims to transform raw transactional data into actionable business insights by analyzing revenue performance, customer behavior, delivery efficiency, and customer satisfaction.
 
 Using Python for data cleaning and analysis and Power BI for visualization, the project delivers interactive dashboards that help stakeholders identify growth opportunities, monitor operational performance, and make data-driven business decisions.
 
