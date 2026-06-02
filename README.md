@@ -68,7 +68,7 @@ A Star Schema data model was implemented in Power BI to ensure efficient reporti
 
 ### Revenue Performance Dashboard
 
-![Revenue Dashboard](images/revenue-dashboard.png)
+![Revenue Dashboard](Dashboard_overview/Report_1.png)
 
 #### Dashboard Focus
 
@@ -85,7 +85,7 @@ A Star Schema data model was implemented in Power BI to ensure efficient reporti
 
 ### Customer Behavior Dashboard
 
-![Customer Dashboard](images/customer-dashboard.png)
+![Customer Dashboard](Dashboard_overview/Report_2.png)
 
 #### Dashboard Focus
 
